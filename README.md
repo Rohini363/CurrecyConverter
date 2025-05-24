@@ -90,4 +90,4 @@ private static final String API_KEY = "YOUR_API_KEY"; // Replace this!
 ## 🙋‍♀️ Author
 
 Developed by **Rohini363**  
-GitHub: [Check Git Repo](https://github.com/Rohini363/FileEncryptionDecryption)
+GitHub: [Check Git Repo](https://github.com/Rohini363/CurrencyConverter)
